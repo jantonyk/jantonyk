@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a
+
+
+Developer 💻| Student 👨‍🎓
 <!--
 **jantonyk/jantonyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
